@@ -1,0 +1,18 @@
+{
+    "telemetry.machineId": "06da2295acfb2ab0268c14f526cd32b9bc8171979c6d8490885731f9bd4f26fd",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "bbc890d4e1200fe56b000ffd1b9e9fa7",
+                "configURIPath": "file:///d%3A/Programowanie/Angular/AngularByko/todo-list-udemy/.metadata/codemix.code-workspace"
+            },
+            {
+                "id": "10c86933ecdc5bf7a74498a3c67bc4fd",
+                "configURIPath": "file:///d%3A/Programowanie/Angular/AngularPL/todo-list-udemy/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}
